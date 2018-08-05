@@ -4,10 +4,10 @@
     <title>Code Crazy</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://blog.jackcoy.io/</link>
-    <atom:link href="http://blog.jackcoy.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Aug 2018 23:45:15 +1000</pubDate>
-    <lastBuildDate>Sun, 05 Aug 2018 23:45:15 +1000</lastBuildDate>
+    <link>https://jackman3005.github.io/</link>
+    <atom:link href="https://jackman3005.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 06 Aug 2018 00:10:54 +1000</pubDate>
+    <lastBuildDate>Mon, 06 Aug 2018 00:10:54 +1000</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>
 </description>
         <pubDate>Fri, 03 Aug 2018 00:28:59 +1000</pubDate>
-        <link>http://blog.jackcoy.io/posts/what-is-blogging</link>
-        <guid isPermaLink="true">http://blog.jackcoy.io/posts/what-is-blogging</guid>
+        <link>https://jackman3005.github.io/posts/what-is-blogging</link>
+        <guid isPermaLink="true">https://jackman3005.github.io/posts/what-is-blogging</guid>
         
         <category>coding</category>
         
@@ -58,8 +58,8 @@ int main() {
 &lt;p&gt;Nam id ullamcorper mi. Aenean interdum bibendum odio, non maximus lectus pretium a. Curabitur sed risus ipsum. Etiam condimentum elit in tellus venenatis, at lacinia tellus feugiat. Nulla facilisis condimentum consectetur. Pellentesque sed dictum lectus, et rhoncus odio. Aliquam ac nisi cursus, consectetur massa eleifend, vehicula nisi. Suspendisse in est auctor, scelerisque justo et, volutpat eros. Mauris egestas justo in nunc maximus rutrum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vitae velit efficitur, volutpat leo et, laoreet risus. Nunc felis turpis, egestas non sodales non, euismod non diam.&lt;/p&gt;
 </description>
         <pubDate>Thu, 05 Jan 2017 17:15:59 +1100</pubDate>
-        <link>http://blog.jackcoy.io/posts/Material-Design-is-Overtaking-the-Web!</link>
-        <guid isPermaLink="true">http://blog.jackcoy.io/posts/Material-Design-is-Overtaking-the-Web!</guid>
+        <link>https://jackman3005.github.io/posts/Material-Design-is-Overtaking-the-Web!</link>
+        <guid isPermaLink="true">https://jackman3005.github.io/posts/Material-Design-is-Overtaking-the-Web!</guid>
         
         <category>material</category>
         
@@ -112,8 +112,8 @@ int main() {
 &lt;p&gt;Sed vulputate non mauris vel condimentum. Integer facilisis fringilla accumsan. Donec aliquam eget leo maximus cursus. Integer interdum condimentum odio, id ornare nisl sodales ac. Quisque sed interdum diam. Integer semper hendrerit nunc, vel vestibulum est pellentesque congue. Quisque gravida, turpis eget blandit gravida, tellus tellus posuere nisl, vel vulputate lectus lectus sit amet felis.&lt;/p&gt;
 </description>
         <pubDate>Thu, 05 Jan 2017 01:28:59 +1100</pubDate>
-        <link>http://blog.jackcoy.io/posts/sample-post</link>
-        <guid isPermaLink="true">http://blog.jackcoy.io/posts/sample-post</guid>
+        <link>https://jackman3005.github.io/posts/sample-post</link>
+        <guid isPermaLink="true">https://jackman3005.github.io/posts/sample-post</guid>
         
         <category>sample</category>
         
@@ -146,8 +146,8 @@ int main() {
 
 </description>
         <pubDate>Tue, 03 May 2016 00:28:59 +1000</pubDate>
-        <link>http://blog.jackcoy.io/posts/welcome-to-jekyll-(and-React.js-;)</link>
-        <guid isPermaLink="true">http://blog.jackcoy.io/posts/welcome-to-jekyll-(and-React.js-;)</guid>
+        <link>https://jackman3005.github.io/posts/welcome-to-jekyll-(and-React.js-;)</link>
+        <guid isPermaLink="true">https://jackman3005.github.io/posts/welcome-to-jekyll-(and-React.js-;)</guid>
         
         <category>coding</category>
         
