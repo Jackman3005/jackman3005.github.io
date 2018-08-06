@@ -532,6 +532,9 @@ pre {
 .menu-overflow {
   overflow-x: hidden !important; }
 
+.menu-overflow > .menu-overflow > div:first-child {
+  height: 110px; }
+
 /**
  * Syntax highlighting styles
  */
