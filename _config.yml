@@ -9,9 +9,9 @@
 react:
   title: Code Crazy
   name: Jack Coy
-  menu_right_subtitle: Blogger || Software Engineer
+  menu_right_subtitle: Blogger | Software Engineer
   avatar: http://api.adorable.io/avatar/aplaza@liquidthink.net
-  logo: static/img/logo_theme.jpg
+  logo: static/img/logo.png
   email: jackman3000+blog@gmail.com
   description: > # this means to ignore newlines until "baseurl:"
     Write an awesome description for your new site here. You can edit this
@@ -29,9 +29,9 @@ react:
 
 title: Code Crazy
 name: Jack Coy
-menu_right_subtitle: Blogger || Software Engineer
+menu_right_subtitle: Blogger | Software Engineer
 avatar: http://api.adorable.io/avatar/aplaza@liquidthink.net
-logo: static/img/logo_theme.jpg
+logo: static/img/logo.png
 email: jackman3000+blog@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
