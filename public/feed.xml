@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code Crazy</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>https://jackman3005.github.io/</link>
+    <atom:link href="https://jackman3005.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 06 Aug 2018 00:15:58 +1000</pubDate>
+    <lastBuildDate>Mon, 06 Aug 2018 00:15:58 +1000</lastBuildDate>
+    <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>What is blogging?</title>
+        <description>
+</description>
+        <pubDate>Fri, 03 Aug 2018 00:28:59 +1000</pubDate>
+        <link>https://jackman3005.github.io/posts/what-is-blogging</link>
+        <guid isPermaLink="true">https://jackman3005.github.io/posts/what-is-blogging</guid>
+        
+        <category>coding</category>
+        
+        <category>design</category>
+        
+        <category>welcome</category>
+        
+        <category>jekyll</category>
+        
+        <category>hello</category>
+        
+        
+        <category>coding</category>
+        
+        <category>design</category>
+        
+      </item>
+    
+      <item>
+        <title>Material Design is Overtaking the Web</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tempus, orci sodales vulputate blandit, augue neque aliquam dui, at vulputate nulla dolor nec tellus. Sed iaculis interdum est, in dignissim enim dapibus ac. Curabitur lobortis cursus ligula, a congue justo congue nec. Ut cursus nibh quis augue vehicula sodales. Morbi vel accumsan est. Praesent dolor metus, gravida sed turpis vel, hendrerit imperdiet mi. In sagittis tempor massa eget finibus. Etiam faucibus tortor in pellentesque pulvinar. Praesent augue est, malesuada eu posuere in, sagittis sit amet erat. Sed at nisl purus. Sed non mattis nibh. Cras commodo ornare turpis sed sollicitudin. Pellentesque ornare fringilla risus nec scelerisque. Curabitur sed convallis ipsum.&lt;/p&gt;
+
+&lt;p&gt;Here is some C code!&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;#include &amp;lt;stdio.h&amp;gt;
+#include &amp;lt;stdlib.h&amp;gt;
+
+int main() {
+  printf(&quot;%s&quot;, &quot;Hello World!&quot;);
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Sed felis ante, imperdiet et finibus sed, laoreet a lorem. Donec aliquam quis lacus id facilisis. Proin volutpat volutpat pulvinar. Curabitur suscipit risus mattis risus lobortis rutrum. Suspendisse ac leo interdum, pellentesque felis nec, ultrices nisl. Etiam eleifend, risus quis eleifend varius, orci velit lacinia libero, vel vehicula enim nisl et purus. Aenean eu vulputate nunc.&lt;/p&gt;
+
+&lt;p&gt;Aenean ac massa tincidunt, tristique neque vitae, sodales lorem. Morbi vitae massa porta, pulvinar felis a, dapibus felis. Proin nec consequat purus. Duis porta diam at venenatis finibus. Aenean consequat viverra nulla, id sollicitudin eros semper ultrices. Sed eget vehicula eros. Donec sodales interdum turpis ut congue. Vivamus eu pharetra dui. Morbi at enim hendrerit, convallis ipsum vel, molestie lectus. Vivamus ac quam aliquam, suscipit ipsum non, semper leo.&lt;/p&gt;
+
+&lt;p&gt;Sed blandit tincidunt est vitae auctor. Aenean vulputate scelerisque leo a dapibus. Phasellus et magna mollis nulla porta commodo at nec ante. Nulla facilisis interdum odio eget tincidunt. Aliquam malesuada eget ipsum non sagittis. Morbi finibus consectetur urna. Nullam sollicitudin in elit mattis blandit. Nunc leo libero, euismod sit amet urna id, consequat mattis lectus.&lt;/p&gt;
+
+&lt;p&gt;Nam id ullamcorper mi. Aenean interdum bibendum odio, non maximus lectus pretium a. Curabitur sed risus ipsum. Etiam condimentum elit in tellus venenatis, at lacinia tellus feugiat. Nulla facilisis condimentum consectetur. Pellentesque sed dictum lectus, et rhoncus odio. Aliquam ac nisi cursus, consectetur massa eleifend, vehicula nisi. Suspendisse in est auctor, scelerisque justo et, volutpat eros. Mauris egestas justo in nunc maximus rutrum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vitae velit efficitur, volutpat leo et, laoreet risus. Nunc felis turpis, egestas non sodales non, euismod non diam.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Jan 2017 17:15:59 +1100</pubDate>
+        <link>https://jackman3005.github.io/posts/Material-Design-is-Overtaking-the-Web!</link>
+        <guid isPermaLink="true">https://jackman3005.github.io/posts/Material-Design-is-Overtaking-the-Web!</guid>
+        
+        <category>material</category>
+        
+        <category>design</category>
+        
+        <category>overtaking</category>
+        
+        <category>web</category>
+        
+        <category>craziness</category>
+        
+        <category>awesome</category>
+        
+        <category>theme</category>
+        
+        <category>hello</category>
+        
+        <category>world</category>
+        
+        
+        <category>coding</category>
+        
+        <category>design</category>
+        
+      </item>
+    
+      <item>
+        <title>Sample Post!</title>
+        <description>&lt;h2 id=&quot;im-a-post&quot;&gt;I’m a post!!!&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed mauris metus. Donec lobortis nisi et metus aliquam finibus in nec enim. Quisque semper nunc at enim fringilla lacinia. Quisque ac imperdiet tellus, a efficitur magna. Cras lectus quam, sagittis et tortor id, imperdiet sodales velit. Fusce malesuada id dolor et tincidunt. Maecenas rhoncus, felis in iaculis suscipit, velit lorem malesuada eros, vitae aliquam arcu tortor euismod arcu. Integer felis lorem, vehicula eget mauris et, blandit faucibus enim. Fusce faucibus metus vel sagittis sodales. Aliquam quis nunc tempor, varius velit non, placerat ante. Curabitur id nisi quis mauris gravida porta id eget sem. Maecenas ante dui, vulputate id tincidunt ac, iaculis id dolor. Maecenas mattis auctor massa. Nulla mi enim, rutrum nec pharetra non, scelerisque vitae quam. Pellentesque a placerat ligula.&lt;/p&gt;
+
+&lt;p&gt;Cras condimentum magna ornare, pretium ligula eget, malesuada ipsum. Sed at eleifend sapien. Integer lacinia, dui porttitor fringilla luctus, diam felis rhoncus massa, id viverra lorem purus non dolor. Proin in dui lacus. Aenean fringilla auctor turpis ut imperdiet. Phasellus commodo, urna sed malesuada condimentum, tellus dui semper tellus, sit amet vestibulum erat velit eget elit. In euismod orci ante, ac tincidunt ante venenatis eu. Aenean convallis diam nisl, sed hendrerit libero feugiat suscipit. Pellentesque nulla ex, gravida at nisi at, viverra bibendum erat. Nullam nec ultricies purus, sed varius turpis. Ut elit justo, auctor id purus eu, venenatis elementum nulla. Suspendisse odio magna, molestie quis nunc et, posuere aliquam ante. Proin sed ultrices justo, nec ornare justo. Sed mollis nulla eu dolor aliquet euismod. In consequat lectus vitae arcu dignissim tincidunt.&lt;/p&gt;
+
+&lt;p&gt;Aliquam dictum convallis eros id cursus. Nullam porttitor congue urna eget efficitur. Curabitur cursus hendrerit sagittis. Pellentesque tristique facilisis purus eget ultrices. Donec aliquam mollis elit, id egestas quam porta eget. Vestibulum vel tincidunt velit. Vivamus mattis sapien diam, sit amet eleifend ex dapibus sed.&lt;/p&gt;
+
+&lt;p&gt;Nunc pharetra, tellus in luctus sodales, ex elit condimentum libero, sit amet interdum neque risus ac magna. Donec aliquam bibendum eleifend. Nam convallis arcu vestibulum, aliquet magna sit amet, feugiat sapien. Vivamus vitae nisl in nibh tempus euismod vel at sapien. Proin convallis ullamcorper mattis. Nullam dapibus, urna eget efficitur interdum, leo nulla accumsan augue, at porttitor justo odio id eros. Integer non metus ex. Pellentesque quis sapien quis libero fermentum vulputate. Duis maximus tempus orci quis auctor. Aenean eget vehicula risus. Etiam mattis iaculis lorem, eu facilisis mauris tincidunt eget. Proin porttitor nisi eu augue bibendum, sed tincidunt enim iaculis. Vestibulum vitae ullamcorper ex. Quisque dapibus pellentesque magna vitae tristique. Mauris vel ante ultrices nunc congue euismod. Suspendisse ultrices semper ultricies.&lt;/p&gt;
+
+&lt;p&gt;Sed vulputate non mauris vel condimentum. Integer facilisis fringilla accumsan. Donec aliquam eget leo maximus cursus. Integer interdum condimentum odio, id ornare nisl sodales ac. Quisque sed interdum diam. Integer semper hendrerit nunc, vel vestibulum est pellentesque congue. Quisque gravida, turpis eget blandit gravida, tellus tellus posuere nisl, vel vulputate lectus lectus sit amet felis.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed mauris metus. Donec lobortis nisi et metus aliquam finibus in nec enim. Quisque semper nunc at enim fringilla lacinia. Quisque ac imperdiet tellus, a efficitur magna. Cras lectus quam, sagittis et tortor id, imperdiet sodales velit. Fusce malesuada id dolor et tincidunt. Maecenas rhoncus, felis in iaculis suscipit, velit lorem malesuada eros, vitae aliquam arcu tortor euismod arcu. Integer felis lorem, vehicula eget mauris et, blandit faucibus enim. Fusce faucibus metus vel sagittis sodales. Aliquam quis nunc tempor, varius velit non, placerat ante. Curabitur id nisi quis mauris gravida porta id eget sem. Maecenas ante dui, vulputate id tincidunt ac, iaculis id dolor. Maecenas mattis auctor massa. Nulla mi enim, rutrum nec pharetra non, scelerisque vitae quam. Pellentesque a placerat ligula.&lt;/p&gt;
+
+&lt;p&gt;Cras condimentum magna ornare, pretium ligula eget, malesuada ipsum. Sed at eleifend sapien. Integer lacinia, dui porttitor fringilla luctus, diam felis rhoncus massa, id viverra lorem purus non dolor. Proin in dui lacus. Aenean fringilla auctor turpis ut imperdiet. Phasellus commodo, urna sed malesuada condimentum, tellus dui semper tellus, sit amet vestibulum erat velit eget elit. In euismod orci ante, ac tincidunt ante venenatis eu. Aenean convallis diam nisl, sed hendrerit libero feugiat suscipit. Pellentesque nulla ex, gravida at nisi at, viverra bibendum erat. Nullam nec ultricies purus, sed varius turpis. Ut elit justo, auctor id purus eu, venenatis elementum nulla. Suspendisse odio magna, molestie quis nunc et, posuere aliquam ante. Proin sed ultrices justo, nec ornare justo. Sed mollis nulla eu dolor aliquet euismod. In consequat lectus vitae arcu dignissim tincidunt.&lt;/p&gt;
+
+&lt;p&gt;Aliquam dictum convallis eros id cursus. Nullam porttitor congue urna eget efficitur. Curabitur cursus hendrerit sagittis. Pellentesque tristique facilisis purus eget ultrices. Donec aliquam mollis elit, id egestas quam porta eget. Vestibulum vel tincidunt velit. Vivamus mattis sapien diam, sit amet eleifend ex dapibus sed.&lt;/p&gt;
+
+&lt;p&gt;Nunc pharetra, tellus in luctus sodales, ex elit condimentum libero, sit amet interdum neque risus ac magna. Donec aliquam bibendum eleifend. Nam convallis arcu vestibulum, aliquet magna sit amet, feugiat sapien. Vivamus vitae nisl in nibh tempus euismod vel at sapien. Proin convallis ullamcorper mattis. Nullam dapibus, urna eget efficitur interdum, leo nulla accumsan augue, at porttitor justo odio id eros. Integer non metus ex. Pellentesque quis sapien quis libero fermentum vulputate. Duis maximus tempus orci quis auctor. Aenean eget vehicula risus. Etiam mattis iaculis lorem, eu facilisis mauris tincidunt eget. Proin porttitor nisi eu augue bibendum, sed tincidunt enim iaculis. Vestibulum vitae ullamcorper ex. Quisque dapibus pellentesque magna vitae tristique. Mauris vel ante ultrices nunc congue euismod. Suspendisse ultrices semper ultricies.&lt;/p&gt;
+
+&lt;p&gt;Sed vulputate non mauris vel condimentum. Integer facilisis fringilla accumsan. Donec aliquam eget leo maximus cursus. Integer interdum condimentum odio, id ornare nisl sodales ac. Quisque sed interdum diam. Integer semper hendrerit nunc, vel vestibulum est pellentesque congue. Quisque gravida, turpis eget blandit gravida, tellus tellus posuere nisl, vel vulputate lectus lectus sit amet felis.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Jan 2017 01:28:59 +1100</pubDate>
+        <link>https://jackman3005.github.io/posts/sample-post</link>
+        <guid isPermaLink="true">https://jackman3005.github.io/posts/sample-post</guid>
+        
+        <category>sample</category>
+        
+        <category>new</category>
+        
+        <category>hello</category>
+        
+        
+        <category>coding</category>
+        
+        <category>Python</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll! ( and React.js ;)</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 03 May 2016 00:28:59 +1000</pubDate>
+        <link>https://jackman3005.github.io/posts/welcome-to-jekyll-(and-React.js-;)</link>
+        <guid isPermaLink="true">https://jackman3005.github.io/posts/welcome-to-jekyll-(and-React.js-;)</guid>
+        
+        <category>coding</category>
+        
+        <category>design</category>
+        
+        <category>welcome</category>
+        
+        <category>jekyll</category>
+        
+        <category>hello</category>
+        
+        
+        <category>coding</category>
+        
+        <category>design</category>
+        
+      </item>
+    
+  </channel>
+</rss>
