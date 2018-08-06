@@ -18,7 +18,7 @@ react:
     line in _config.yml. It will appear in your document head meta (for
     Google search results) and in your feed.xml site description.
   baseurl: "" # the subpath of your site, e.g. /blog
-  url: "https://jackman3005.github.io" # the base hostname & protocol for your site
+  url: "https://blog.jackcoy.io" # the base hostname & protocol for your site
   permalink: /posts/:title
   social:
     twitter: http://twitter.com/jackman3005
@@ -38,7 +38,7 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jackman3005.github.io" # the base hostname & protocol for your site
+url: "https://blog.jackcoy.io" # the base hostname & protocol for your site
 permalink: /posts/:title
 
 
