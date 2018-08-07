@@ -5,50 +5,63 @@ permalink: about/
 render: dynamic
 ---
 
-This is a base theme for the Material Bliss Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/), as well as this themes homepage: [Material Bliss](http://www.github.com/InsidiousMind/material-bliss-jekyll-theme)
 
-You can find the source code for the Jekyll Material Bliss Theme at:
-{% include icon-github.html username="InsidiousMind" %} /
-[material-bliss](https://github.com/InsidiousMind/material-bliss-jekyll-theme)
+**Hello folks! Welcome to `code crazy`**
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+# Background
+My name is Jack Coy. I grew up in a small town in Michigan about an hour away from Detroit.
+After high school I studied Computer Science at Eastern Michigan University. During my time at EMU, 
+I started my professional career at a software consultancy called [Menlo Innovations](http://menloinnovations.com/).
+Not initially understanding what I was getting myself into, I quickly found out that Menlo 
+was a huge advocate of [Extreme Programming](https://www.agilealliance.org/glossary/xp/). 
+For those who have forgotten, Extreme Programming (XP) is a flavor of agile software development that is 
+most known for its short (1 week) iterations, [Pair Programming](http://www.extremeprogramming.org/rules/pair.html), 
+and [Test Driven Development](http://agiledata.org/essays/tdd.html).
+Till this day, I am certain there was no faster way for me to get ramped up into professional software
+development than pairing 8 hours a day with someone who actually knew what they were doing. The
+learning intensity was truly invigorating! After two and half years at Menlo Innovations I had completed my
+undergraduate degree at EMU.
 
-Here's a demo of syntax highlighting!
+At the time, I felt that school ended abruptly for me and I was seeking more. I enrolled in the
+Computer Science Masters program at the University of Colorado - Boulder. My experience at UC
+was fantastic. I was able to get a position as a Teachers Assistant where I taught undergraduate
+computer science classes. This helped me realize my hidden passion for teaching. I met some great people
+and took some excellent classes. Most notably:
 
-{% highlight zsh %}
-demo_mod1_generator() {
-  local mod="$1" ice="$2"
+- Machine Learning
+- Deep Neural Networks
+- Natural Language Processing
+- Ethical Hacking (all-time favorite class)
 
-  # Content, no hyper-links
-  reply=( "Hello World from ${ZUI[YELLOW]}ZUI${ZUI[COLOR_END]}! Module $mod, instance $ice." )
+After a year of being enrolled in the masters program I got a job at [Pivotal Labs](https://pivotal.io/labs).
+Originally planning to stay only for the summer break, I ended up getting thoroughly distracted by life 
+in the professional scene. My intentions of completing a masters degree eluded me...
 
-  # Non-selectable lines   Hops to jump with [ and ]   Local anchors
-  reply2=( )               reply3=( 1 )                reply4=( )
-}
-{% endhighlight %}
+After two and a half years at Pivotal in Boulder, I relocated to the [Pivotal office in Sydney](https://pivotal.io/locations/sydney) 
+in September of 2017. 
 
+# Intentions
 
-```
-#!/usr/bin/python3
+Over the years I have had a number of experiences that I thought the rest of the world
+may be interested in. I've mostly been too lazy to share these, but I've started to realize
+that some of my experiences are close to unique and there are people that
+would love to hear what I have to contribute.
 
-def something:
-  print("Hello World!")
-
-something
-```
-
-Even though it's built with React and Jekyll, you can still use liquid tags in you're markdown exactly as you would normally! for example, if you look at the sourcecode for this about page, you will find I use this liquid in this very page
-
-
-The page can render either dynamically or statically. This about page is rendered dynamically, all that's required for a dynamic render is putting
-```
----
-render: dynamic
----
-```
-in your front matter. What this does is spit out a corresponding JSON file of your dynamic page at the url. put 'About.json' in the url to see it!
+In addition to wanting to contribute back to the community, I'd also like to improve
+my writing skills and work towards making blogging something that is easy and not stressful.
 
 
-If you want a static render, you don't need to include anything for 'render'
+# Feedback
+I've grown to learn that feedback can be one of the greatest gifts to receive. 
+If you have anything you'd like me to consider, please reach out to me on one my social
+media accounts! Seriously, I encourage you to have a low threshold for what you consider
+important to mention.
+
+Hope you enjoy your stay, feel free to poke around!
+
+Cheers, mate!
+
+<img src="/static/img/photo_of_jack.jpg" alt="photo of Jack" width="500px"/>
+
+
+{% include icon-github.html username="Jackman3005" %}
