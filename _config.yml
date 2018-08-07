@@ -10,8 +10,8 @@ react:
   title: Code Crazy
   name: Jack Coy
   menu_right_subtitle: Blogger | Software Engineer
-  avatar: static/img/avatar.jpg
-  logo: static/img/code_crazy_logo.png
+  avatar: /static/img/avatar.jpg
+  logo: /static/img/code_crazy_logo.png
   email: ''
   description: > # this means to ignore newlines until "baseurl:"
     Write an awesome description for your new site here. You can edit this
@@ -30,8 +30,8 @@ react:
 title: Code Crazy
 name: Jack Coy
 menu_right_subtitle: Blogger | Software Engineer
-avatar: static/img/avatar.jpg
-logo: static/img/code_crazy_logo.png
+avatar: /static/img/avatar.jpg
+logo: /static/img/code_crazy_logo.png
 email: ''
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
