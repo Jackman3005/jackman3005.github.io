@@ -10,3 +10,5 @@ src/.asset-cache
 webpack/npm-debug.log
 src/_assets/js/bundle.js
 .idea
+.DS_STORE
+.DS_Store

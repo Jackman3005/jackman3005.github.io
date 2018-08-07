@@ -23,16 +23,14 @@ class Footer extends Component {
               <ul className="contact-list">
 
                 <li>{this.props.config.title}</li>
-                <li><a href={`mailto:${this.props.config.email}`}>{this.props.config.email}</a></li>
-                <li><p>&copy; Material Bliss Jan 2017-{today.getFullYear()}</p></li>
+                  { this.props.config.email && (
+                      <li><a href={`mailto:${this.props.config.email}`}>{this.props.config.email}</a></li>
+                  )}
                 <li><a href="https://github.com/InsidiousMind/material-bliss-jekyll-theme">Material Bliss Theme</a></li>
               </ul>
             </div>
             <div className="footer-col footer-col-2">
               <SocialMediaList social={this.props.config.social} />
-          </div>
-          <div className="footer-col footer-col-3" >
-            <SignupForm />
           </div>
         </div>
       </div>

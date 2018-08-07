@@ -10,9 +10,9 @@ react:
   title: Code Crazy
   name: Jack Coy
   menu_right_subtitle: Blogger | Software Engineer
-  avatar: http://api.adorable.io/avatar/aplaza@liquidthink.net
-  logo: static/img/logo.png
-  email: jackman3000+blog@gmail.com
+  avatar: static/img/avatar.jpg
+  logo: static/img/code_crazy_logo.png
+  email: ''
   description: > # this means to ignore newlines until "baseurl:"
     Write an awesome description for your new site here. You can edit this
     line in _config.yml. It will appear in your document head meta (for
@@ -30,9 +30,9 @@ react:
 title: Code Crazy
 name: Jack Coy
 menu_right_subtitle: Blogger | Software Engineer
-avatar: http://api.adorable.io/avatar/aplaza@liquidthink.net
-logo: static/img/logo.png
-email: jackman3000+blog@gmail.com
+avatar: static/img/avatar.jpg
+logo: static/img/code_crazy_logo.png
+email: ''
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for

@@ -80,21 +80,12 @@ to
 ### Site Config Variables:
 any site configuration that you want to let React use, put under 'react' in your `_config.yml`. This will be grabbed by the siteInfo action creator and put through it's corresponding reducer
 
-### TODO:
- - [x] create a jekyll plugin to output all [YML config] site data into JSON, in such a way which is importable to react and can be used to manage state
- - [x] [possible TODO, maybe redundant. ?] Rendered JS to HTML and outputted into a folder for Jekyll to take it. This allows us to use React components on `_layouts`
- - [x] create a Dynamic Search Function with Auto Fill
- - [x] Finish implementing Toggle Theme Switch
- - [ ] add useful important information to single-post post meta
- - [ ] make footer look better on mobile
- - [ ] Implement 'sliding' on mobile-touchA
- - [ ] make expanded search bar more responsive on mobile
- - [ ] create category pages
- - [ ] add pagination
- - [ ] Make different post 'types' (IE Fullsize page)
- - [ ] make it easier to use with Jekyll
- - [ ] Save theme in sites cookies
 
 
-### Contribution
-Want to contribute? Found an issue? Jump right in! I welcome any help I can get, and will work with you to fix any issues.
+# Sources
+
+#### Favicon
+https://www.favicon.cc/?action=icon&file_id=470581
+
+#### Avatar
+https://avatars.alphacoders.com/avatars/view/62373
