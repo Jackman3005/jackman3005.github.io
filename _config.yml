@@ -14,8 +14,8 @@ react:
   logo: /static/img/code_crazy_logo.png
   email: ''
   description: > # this means to ignore newlines until "baseurl:"
-    Extreme Programming Consultant since 2012. Privileged to work on varying
-    technical domains such as Analytical Desktop Software, ETL Data Pipelines,
+    Extreme Programming Consultant since 2012. Experience in varying
+    technical domains such as: Analytical Desktop Software, ETL Data Pipelines,
     Web Apps, and Android/iOS Apps. I consider myself an aspiring expert on
     Testing, Automation, Lean Software Development, and Pairing.
   baseurl: "" # the subpath of your site, e.g. /blog
@@ -26,6 +26,7 @@ react:
     github: http://github.com/jackman3005
     facebook: http://facebook.com/jackman3005
     code: http://github.com/jackman3005/jackman3005.github.io #livecoding.tv handle
+    rss: feed.xml
 
 
 title: Code Crazy
@@ -35,8 +36,8 @@ avatar: /static/img/avatar.jpg
 logo: /static/img/code_crazy_logo.png
 email: ''
 description: > # this means to ignore newlines until "baseurl:"
-    Extreme Programming Consultant since 2012. Privileged to work on varying
-    technical domains such as Analytical Desktop Software, ETL Data Pipelines,
+    Extreme Programming Consultant since 2012. Experience in varying
+    technical domains such as: Analytical Desktop Software, ETL Data Pipelines,
     Web Apps, and Android/iOS Apps. I consider myself an aspiring expert on
     Testing, Automation, Lean Software Development, and Pairing.
 baseurl: "" # the subpath of your site, e.g. /blog

@@ -13,7 +13,7 @@
   description: >
     I created this program as part of an Artificial Intelligence class
     that I took at Eastern Michigan University. We created a simple
-    look ahead AI that was actually quite excellent at the beginning
-    stages of checkers, but couldn't swing the finishing blow. This
-    project proved to be a lot of fun. Would love to do a remix of this
-    with a deep neural net!
+    look ahead AI that was actually quite excellent at the first few moves
+    of checkers, but failed to maintain its lead and was poor at finishing
+    off an opponent. This project proved to be a lot of fun. Would love
+    to do a remix of this using a deep neural net!

@@ -10,7 +10,7 @@ tags: hello welcome intro
 **Hello folks! Welcome to my new blog, `code crazy`.**
 
 Have you ever wondered who are the *great* Samaritan's of Stack Overflow who swoop in 
-and save the day answering poor fools questions?
+and save the day answering poor fool's questions?
 
 Are they real humans? (seriously... aliens?) Because, throughout my career as a Software Engineer Consultant,
 I rarely find anyone willing to give back to the online community. Personally, I've 
@@ -22,7 +22,7 @@ that some of my experiences are close to unique and there truly are people out t
 would love to hear what I have to contribute. 
 
 In addition to wanting to contribute back to the community, I'd also like to improve
-my writing skills and work towards making this something that is easy and not stressful.
+my writing skills and work towards making this something that is easy and stress free.
 
 I haven't decided if this will end up being a mix of personal
 and technical posts or just technical. For now I will just go with the flow and see
