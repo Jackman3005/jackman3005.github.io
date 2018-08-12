@@ -1,0 +1,8 @@
+tasks:
+  - name: Run Dev Server (port 4000)
+    script: foreman start
+    hotkey: r
+    runOnStartup: true
+  - name: Build Prod
+    script: ./build-prod.sh
+    hotkey: p

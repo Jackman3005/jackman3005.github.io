@@ -1,0 +1,2 @@
+jekyll:    ./build-dev.sh
+webpack:   npm run webpack:dev
