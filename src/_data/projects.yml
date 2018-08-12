@@ -1,3 +1,25 @@
+- title: ETL Journey from Oracle to Postgres
+  author: Jack Coy & Damien LeBerrigaud
+  avatar: true
+  homepage: http://engineering.pivotal.io/post/etl-journey-from-oracle-to-postgres/
+  image: static/img/placeholder.jpg
+  subtitle: How we transferred a legacy Oracle database to a new Postgres database in a 3 hour window.
+  date: Apr 2016
+  tags:
+  - etl
+  - postgres
+  - automation
+  - pivotal
+  - foreign data wrapper
+  description: >
+    Despite our recommendations, a client of Pivotal wanted to
+    do a 'big bang' release, replacing their company's internal day-to-day
+    software overnight. After numerous failed 3rd party attempts to perform
+    the ETL, we were asked to migrate the data in their 25GB 10 year old oracle DB
+    to our shiny new postgres database. This blog post articulates the strategies
+    we employed and some pretty interesting postgres features that allowed us to
+    successfully transform the data.
+
 - title: Checkers AI
   author: Jack Coy
   author_tag: With help from students in COSC 461

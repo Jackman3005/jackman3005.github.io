@@ -33,9 +33,9 @@ class ProjectsIndex extends Component {
       return;
   }
   getAuthorHeader = (project) => {
-      if (project.author && project.author_tag && project.avatar) {
+      if (project.author) {
         return (
-          <CardHeader title={project.author} subtitle={project.author_tag} avatar={this.props.config.avatar} />
+          <CardHeader title={project.author} subtitle={project.author_tag} avatar={project.avatar ? this.props.config.avatar : undefined} />
         );
       }
       return;
