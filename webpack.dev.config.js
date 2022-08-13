@@ -16,7 +16,7 @@ module.exports = {
   output: {
     // we're going to put the generated file in the assets folder so jekyll will grab it.
       filename: 'bundle.js',
-      path: 'public/assets/js/',
+      path: 'docs/assets/js/',
       //need to compile to UMD or CommonJS so it can be requred in a Node context
   },
     module: {
@@ -31,7 +31,7 @@ module.exports = {
         },
         {
           test: /\.json$/,
-          loader: 'json-loader' 
+          loader: 'json-loader'
         },
         {
           test: /\.css$/,
@@ -40,7 +40,7 @@ module.exports = {
         },
        ],
       plugins: [
-        new webpack.DefinePlugin({ 
+        new webpack.DefinePlugin({
           'process.env.NODE_ENV': '"development"'
         }),
         new BundleAnalyzerPlugin({
@@ -50,7 +50,7 @@ module.exports = {
       ]
     },
     resolve: {
-      extensions: ['', '.js', '.jsx'] 
+      extensions: ['', '.js', '.jsx']
     },
     devServer: {
       historyApiFallback: true,

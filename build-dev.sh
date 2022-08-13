@@ -2,7 +2,7 @@
 
 set -e
 
-rm -rf public
+rm -rf docs
 
 sed 's/const ROOT_URL = .*/const ROOT_URL = "http:\/\/localhost:4000";/g' react-dev/actions/index.js > index.js.tmp && mv index.js.tmp react-dev/actions/index.js
 

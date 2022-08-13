@@ -2,7 +2,7 @@
 
 set -e
 
-rm -rf public
+rm -rf docs
 
 npm install
 bundle install
@@ -15,4 +15,4 @@ npm run build
 ./generate-static.sh
 bundle exec jekyll build
 
-printf "jackman3005.github.io" > public/CNAME
+printf "jackman3005.github.io" > docs/CNAME

@@ -57,7 +57,7 @@ kramdown:
   syntax_highlighter: rouge
 
 source: src
-destination: public
+destination: docs
 
 assets:
   compress:
