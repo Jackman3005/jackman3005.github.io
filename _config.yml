@@ -95,7 +95,7 @@ assets:
 
 exclude: ['node_modules', 'Gemfile', '.asset-cache', 'build-prod.sh', 'build-dev.sh']
 
-gems:
+plugins:
   - jekyll-assets
   - jekyll_pages_api
   - jekyll-react

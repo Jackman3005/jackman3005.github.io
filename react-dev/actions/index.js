@@ -8,7 +8,7 @@ export const FETCH_POSTS_TAG = 'FETCH_POST_TAG';
 export const FETCH_SITE_INFO = 'FETCH_SITE_INFO';
 export const FETCH_PROJECTS = 'FETCH_PROJECTS';
 
-const ROOT_URL = "https://blog.jackcoy.io";
+const ROOT_URL = "https://jackman3005.github.io";
 const API_URL = '/api/v1/';
 
 const postsRequest = axios.get(`${ROOT_URL}${API_URL}pages.json`);

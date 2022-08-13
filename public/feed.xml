@@ -4,15 +4,15 @@
     <title>Code Crazy</title>
     <description>Extreme Programming Consultant since 2012. Experience in varying technical domains such as: Analytical Desktop Software, ETL Data Pipelines, Web Apps, and Android/iOS Apps. I consider myself an aspiring expert on Testing, Automation, Lean Software Development, and Pairing.
 </description>
-    <link>https://blog.jackcoy.io/</link>
-    <atom:link href="https://blog.jackcoy.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 12 Aug 2018 23:16:21 +1000</pubDate>
-    <lastBuildDate>Sun, 12 Aug 2018 23:16:21 +1000</lastBuildDate>
-    <generator>Jekyll v3.8.3</generator>
+    <link>https://jackman3005.github.io/</link>
+    <atom:link href="https://jackman3005.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 13 Aug 2022 12:17:08 +1000</pubDate>
+    <lastBuildDate>Sat, 13 Aug 2022 12:17:08 +1000</lastBuildDate>
+    <generator>Jekyll v3.9.2</generator>
     
       <item>
         <title>Initial Commit</title>
-        <description>&lt;p&gt;&lt;strong&gt;Hello folks! Welcome to my new blog, &lt;code class=&quot;highlighter-rouge&quot;&gt;code crazy&lt;/code&gt;.&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;Hello folks! Welcome to my new blog, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;code crazy&lt;/code&gt;.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Have you ever wondered who are the &lt;em&gt;great&lt;/em&gt; Samaritan’s of Stack Overflow who swoop in 
 and save the day answering poor fool’s questions?&lt;/p&gt;
@@ -40,8 +40,8 @@ and I knew that I wouldn’t get another decent option even with hours of consid
 So here we are. ;)&lt;/p&gt;
 </description>
         <pubDate>Tue, 07 Aug 2018 09:28:59 +1000</pubDate>
-        <link>https://blog.jackcoy.io/posts/initial-commit</link>
-        <guid isPermaLink="true">https://blog.jackcoy.io/posts/initial-commit</guid>
+        <link>https://jackman3005.github.io/posts/initial-commit</link>
+        <guid isPermaLink="true">https://jackman3005.github.io/posts/initial-commit</guid>
         
         <category>hello</category>
         
