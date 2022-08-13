@@ -38,7 +38,10 @@ Originally planning to stay only for the summer break, I ended up getting thorou
 in the professional scene. My intentions of completing a masters degree eluded me...
 
 After two and a half years at Pivotal in Boulder, I relocated to the [Pivotal office in Sydney](https://pivotal.io/locations/sydney) 
-in September of 2017. 
+in September of 2017.
+
+After nearly 7 years with Pivotal Labs working with some of the best people on the planet I took a leap of faith
+in January 2022 and joined [Sascha Reuter](https://twitter.com/sreuter)'s startup to work on [Questmate](https://www.questmate.com/).
 
 # Intentions
 
