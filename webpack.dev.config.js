@@ -15,49 +15,49 @@ module.exports = {
 
   output: {
     // we're going to put the generated file in the assets folder so jekyll will grab it.
-      filename: 'bundle.js',
-      path: 'docs/assets/js/',
-      //need to compile to UMD or CommonJS so it can be requred in a Node context
+    filename: 'bundle.js',
+    path: 'docs/assets/js/',
+    //need to compile to UMD or CommonJS so it can be requred in a Node context
   },
-    module: {
-      loaders: [
-        {
-          test: /\.jsx?$/,
-          exclude: /(node_modules)/,
-          loader: 'babel', // 'babel-loader' is also a legal name to reference
-          query: {
-            presets: ['react', 'es2015', 'stage-1']
-          }
-        },
-        {
-          test: /\.json$/,
-          loader: 'json-loader'
-        },
-        {
-          test: /\.css$/,
-          loader: 'style!css?modules',
-          include: /flexboxgrid/,
-        },
-       ],
-      plugins: [
-        new webpack.DefinePlugin({
-          'process.env.NODE_ENV': '"development"'
-        }),
-        new BundleAnalyzerPlugin({
-          analyzerMode: 'server',
-          analyzerPort: 8880
-        })
-      ]
-    },
-    resolve: {
-      extensions: ['', '.js', '.jsx']
-    },
-    devServer: {
-      historyApiFallback: true,
-      contentBase: './react-dev/'
-    },
-    node: {
-      console: true,
-      fs: 'empty'
-    }
+  module: {
+    loaders: [
+      {
+        test: /\.jsx?$/,
+        exclude: /(node_modules)/,
+        loader: 'babel', // 'babel-loader' is also a legal name to reference
+        query: {
+          presets: ['react', 'es2015', 'stage-1']
+        }
+      },
+      {
+        test: /\.json$/,
+        loader: 'json-loader'
+      },
+      {
+        test: /\.css$/,
+        loader: 'style!css?modules',
+        include: /flexboxgrid/,
+      },
+    ],
+    plugins: [
+      new webpack.DefinePlugin({
+        'process.env.NODE_ENV': '"development"'
+      }),
+      new BundleAnalyzerPlugin({
+        analyzerMode: 'server',
+        analyzerPort: 8880
+      })
+    ]
+  },
+  resolve: {
+    extensions: ['', '.js', '.jsx']
+  },
+  devServer: {
+    historyApiFallback: true,
+    contentBase: './react-dev/'
+  },
+  node: {
+    console: true,
+    fs: 'empty'
+  }
 };
